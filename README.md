@@ -1,7 +1,7 @@
 # HackerDNS - backend
 
 HackerDNS is a DNS server written in node.js, current repository is a complete
-bockend for it, consisting of both DNS and API servers.
+backend for it, consisting of both DNS and API servers.
 
 ## How to run
 
